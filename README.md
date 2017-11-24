@@ -155,15 +155,4 @@
     + 1.3.0:
         
         + 提供支付超时配置选项**it_b_pay**(`AlipayBuilder.payExpired()`).
-
-## 有事请烧钱
-
-+ 支付宝:
-		
-	<img src="alipay.png" width="200">
-	
-+ 微信:
-
-	<img src="wechat.png" width="200">
-	
-        
+         
